@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+
+* {
+  font-family: "Noto Sans", sans-serif;
+  word-spacing: 2px;
+}
+
+.des{
+  border: 2px solid red;
+}
+
+.fa-instagram,.fa-facebook,.fa-whatsapp,.fa-linkedin{
+  color: #20484F;  
+  font-size: 3rem;
+}
